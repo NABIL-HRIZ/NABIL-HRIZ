@@ -120,9 +120,9 @@ Développeur Full Stack avec un esprit créatif et designer maîtrisant le Front
 You can embed automatically-generated profile cards. Run the `Generate Datas` workflow (Actions) to refresh them. Example embeds (served via raw.githack for reliable SVG rendering):
 
 ```
-[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 
 Inline (files included in repo):
