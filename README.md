@@ -1,69 +1,96 @@
-<h1 align="center">Salut 👋 Moi c'est Nabil HRIZ</h1>
-
-###
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&pause=1000&color=F5E1C0FF&width=800&height=100&size=50&lines=ⴰⵣⵓⵍ!+ⴰⵙⵙⴰⵖ+ⵉⵏⵓ+ⴽⴰⵔⵉⵎⴰ+ⴱⵍⵉⵀⴷⴰ+%F0%9F%A6%8B;Hello!+this+is+Karima+BENIHDA+%F0%9F%92%8C)](https://git.io/typing-svg)
+</div>
 
 <p align="center">
-[cite_start]<strong>Développeur Full-Stack passionné et créatif</strong>[cite: 8].<br>
-[cite_start]Expert en conception d'applications web modernes, bien architecturées et performantes[cite: 8].
+<img src="https://komarev.com/ghpvc/?username=karimabenihda&label=Profile%20views&color=86092c&style=flat-square" alt="karimabenihda" />
 </p>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" height="45" alt="frontend skills" />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,cpp" height="45" alt="backend skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,figma,wordpress" height="45" alt="tools skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="40" alt="neo4j logo"  />
 </div>
 
-###
-
+<br>
 <div align="center">
-  <a href="mailto:hariznabil663@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email" />
+  <a href="mailto:karimabenihda@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/NABIL-HRIZ">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github" />
+  <a href="https://www.linkedin.com/in/karima-ben-ihda-3004ba326/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&style=for-the-badge" height="25" alt="portfolio" />
+  <a href="https://discord.com/users/1180800386592940125" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
 </div>
+<br>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karimabenihda/karimabenihda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karimabenihda/karimabenihda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karimabenihda/karimabenihda/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🚀 Réalisations Majeures
+[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-- [cite_start]**FANZONE (CAN 2025)** : Plateforme Full-Stack (React/Laravel) pour la gestion de Fan Zones (e-tickets QR, Stripe) pour +10 000 utilisateurs[cite: 22].
-- [cite_start]**EVENTIFY** : Application de gestion d'événements avec intégration Stripe, Webhooks et pipelines CI/CD[cite: 24, 25].
-- [cite_start]**FOODLYAPP** : Application de commande en ligne avec React/Redux et optimisation des performances[cite: 26, 27].
+[![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karimabenihda/karimabenihda/main/profile-summary-card-output/moltack/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NABIL-HRIZ&locale=fr&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NABIL-HRIZ&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NABIL-HRIZ&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<p align="center">
-  [cite_start]<em>"Actuellement à la recherche d'une nouvelle opportunité pour mettre mes compétences au service de projets ambitieux"[cite: 9].</em>
-</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NABIL-HRIZ/NABIL-HRIZ/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
-<p align="center"><em>If the snake animation doesn't appear, open the repository Actions tab and run the "generate animation" workflow (or wait a few minutes for the scheduled run).</em></p>
+<h3 align="center">
+✨ Thank you for visiting my profile! Feel free to connect and collaborate. Have a wonderful day! ✨  
+</h3>
