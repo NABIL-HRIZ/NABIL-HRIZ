@@ -22,51 +22,16 @@ Développeur Full Stack avec un esprit créatif et designer maîtrisant le Front
 
 ### 🛠 Technologies & Outils
 
-<div align="left">
-  <!-- Primary stack (larger) -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="48" alt="html5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="48" alt="javascript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="48" alt="redux" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="48" alt="tailwind" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap" />
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,php,laravel,nodejs,mysql,mongodb&perline=6" height="150" />
+  </a>
+  
   <br />
 
-  <!-- Backend & tools -->
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="44" alt="php" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="44" alt="laravel" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="44" alt="nodejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="44" alt="mongodb" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="docker" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="44" alt="git" />
-
-  <br />
-
-  <!-- CI / testing / docs / CMS -->
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="github actions" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="tests (jest)" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="swagger" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jest,postman,svg,wordpress,figma&perline=5" height="120" />
+  </a>
 </div>
 
 ---
