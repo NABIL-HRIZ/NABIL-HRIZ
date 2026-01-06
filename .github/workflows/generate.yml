@@ -45,8 +45,16 @@ jobs:
       # On déplace les cartes de stats vers le dossier de déploiement
       - name: move stats cards to dist
         run: |
+          # remove any existing file named 'dist' and recreate the folder safely
+          rm -f dist || true
+          rm -rf dist || true
           mkdir -p dist/profile-summary-card-output
-          cp -r profile-summary-card-output/* dist/profile-summary-card-output/
+          if [ -d profile-summary-card-output ]; then
+            cp -r profile-summary-card-output/* dist/profile-summary-card-output/ || true
+          else
+            echo "No profile-summary-card-output directory to copy"
+          fi
+          ls -la dist || true
 
       # Déploiement propre vers la branche 'output'
       - name: push to output branch
