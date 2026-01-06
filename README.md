@@ -112,3 +112,26 @@ Développeur Full Stack avec un esprit créatif et designer maîtrisant le Front
 <h3 align="center">
 ✨ Merci de votre visite ! N'hésitez pas à me contacter pour collaborer sur des projets passionnants. ✨  
 </h3>
+
+---
+
+## 📇 Stats & Profile Summary Cards
+
+You can embed automatically-generated profile cards. Run the `Generate Datas` workflow (Actions) to refresh them. Example embeds (served via raw.githack for reliable SVG rendering):
+
+```
+[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githack.com/NABIL-HRIZ/NABIL-HRIZ/main/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+
+Inline (files included in repo):
+
+[![](profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+Troubleshooting:
+
+- If a card is blank, run the `Generate Datas` workflow in Actions; it generates cards and publishes outputs.
+- Open the card directly via the raw.githack link to verify SVG rendering.
