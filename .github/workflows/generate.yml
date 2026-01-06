@@ -43,24 +43,33 @@ jobs:
           AUTO_PUSH: false # On désactive l'auto-push interne qui cause l'erreur
 
       # On déplace les cartes de stats vers le dossier de déploiement
-      - name: move stats cards to dist
+      - name: prepare build directory (avoid deleting dist)
         run: |
-          # remove any existing file named 'dist' and recreate the folder safely
-          rm -f dist || true
-          rm -rf dist || true
-          mkdir -p dist/profile-summary-card-output
+          # create a fresh build directory to avoid permission errors on runner
+          mkdir -p build_dist/profile-summary-card-output
+
+          # try to copy generated outputs from `dist` if readable
+          if [ -d dist ]; then
+            echo "Copying available files from dist to build_dist"
+            cp -r dist/* build_dist/ 2>/dev/null || echo "Some dist files could not be copied (permissions), continuing"
+          else
+            echo "No dist directory present, skipping copy from dist"
+          fi
+
+          # copy profile-summary cards if present
           if [ -d profile-summary-card-output ]; then
-            cp -r profile-summary-card-output/* dist/profile-summary-card-output/ || true
+            cp -r profile-summary-card-output/* build_dist/profile-summary-card-output/ || echo "No profile-summary-card-output files to copy"
           else
             echo "No profile-summary-card-output directory to copy"
           fi
-          ls -la dist || true
+
+          ls -la build_dist || true
 
       # Déploiement propre vers la branche 'output'
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: build_dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
