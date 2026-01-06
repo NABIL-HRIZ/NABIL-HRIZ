@@ -65,3 +65,5 @@
 <img src="https://raw.githubusercontent.com/NABIL-HRIZ/NABIL-HRIZ/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center"><em>If the snake animation doesn't appear, open the repository Actions tab and run the "generate animation" workflow (or wait a few minutes for the scheduled run).</em></p>

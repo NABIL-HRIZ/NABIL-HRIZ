@@ -1,24 +1,32 @@
 name: generate animation
 
 on:
-  # exécution automatique toutes les 24h
+  # daily at 00:00 UTC
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
 
-  # permet de lancer l'animation manuellement
+  # manual trigger
   workflow_dispatch:
 
-  # s'exécute à chaque push sur la branche main
+  # also run on pushes to main
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,10 +37,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push generated files to `output` branch
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          target_branch: output
-          build_dir: dist
+          branch: output
+          folder: dist
+          force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
