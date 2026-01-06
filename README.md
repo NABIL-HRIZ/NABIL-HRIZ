@@ -9,6 +9,12 @@
 
 ---
 
+<div align="center">
+  <a href="https://nabilhriz.vercel.app/" target="_blank">
+    <img src="./assets/portfolio.png" width="900" alt="Nabil Hriz Portfolio" />
+  </a>
+</div>
+
 ### 🚀 À propos de moi
 
 Développeur Full Stack avec un esprit créatif et designer maîtrisant le Front et le Back[cite: 8]. Je conçois des applications web modernes, bien architecturées et performantes[cite: 8]. [cite_start]Actuellement à la recherche d'une nouvelle opportunité pour mettre mes compétences au service de projets ambitieux[cite: 9].
