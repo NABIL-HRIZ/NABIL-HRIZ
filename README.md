@@ -35,9 +35,9 @@
 
 ## 🚀 Réalisations Majeures
 
-* [cite_start]**FANZONE (CAN 2025)** : Plateforme Full-Stack (React/Laravel) pour la gestion de Fan Zones (e-tickets QR, Stripe) pour +10 000 utilisateurs[cite: 22].
-* [cite_start]**EVENTIFY** : Application de gestion d'événements avec intégration Stripe, Webhooks et pipelines CI/CD[cite: 24, 25].
-* [cite_start]**FOODLYAPP** : Application de commande en ligne avec React/Redux et optimisation des performances[cite: 26, 27].
+- [cite_start]**FANZONE (CAN 2025)** : Plateforme Full-Stack (React/Laravel) pour la gestion de Fan Zones (e-tickets QR, Stripe) pour +10 000 utilisateurs[cite: 22].
+- [cite_start]**EVENTIFY** : Application de gestion d'événements avec intégration Stripe, Webhooks et pipelines CI/CD[cite: 24, 25].
+- [cite_start]**FOODLYAPP** : Application de commande en ligne avec React/Redux et optimisation des performances[cite: 26, 27].
 
 ###
 
@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NABIL-HRIZ/NABIL-HRIZ/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
