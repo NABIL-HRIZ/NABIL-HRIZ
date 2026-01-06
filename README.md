@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://nabilhriz.vercel.app/" target="_blank">
-    <img src="./assets/portfolio.png" width="900" alt="Nabil Hriz Portfolio" />
+    <img src="./assets/portfolio.png" width="900" alt="Nabil Hriz hero-Portfolio " />
   </a>
 </div>
 
