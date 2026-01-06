@@ -84,7 +84,7 @@ Développeur Full Stack avec un esprit créatif et designer maîtrisant le Front
 
   <br />
 
-  <img src="https://raw.githubusercontent.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/0-profile-details.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/0-profile-details.svg" width="800" />
   <img src="https://raw.githubusercontent.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/1-repos-per-language.svg" width="400" />
   <br />
   <img src="https://raw.githubusercontent.com/NABIL-HRIZ/NABIL-HRIZ/output/profile-summary-card-output/aura/2-most-commit-language.svg" width="400" />
