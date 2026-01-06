@@ -1,9 +1,9 @@
 name: Generate Datas
 
 on:
-  schedule: # S'exécute toutes les 24h
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permet de lancer manuellement
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,6 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       # Animation Serpent (Pacman)
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3
@@ -24,15 +26,22 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Cartes de Statistiques
+      # Cartes de Statistiques (On désactive l'auto-push pour éviter l'erreur 128)
       - name: generate-profile-summary-cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           username: ${{ github.repository_owner }}
+          AUTO_PUSH: false
 
-      # Déploiement des images
+      # On déplace les cartes de stats vers le dossier de déploiement
+      - name: move stats cards to dist
+        run: |
+          mkdir -p dist/profile-summary-card-output
+          cp -r profile-summary-card-output/* dist/profile-summary-card-output/
+
+      # Un seul déploiement propre vers la branche 'output'
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
